@@ -1,0 +1,24 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger is a burger logger app that follows the MVC design pattern. It uses MySQL and Node to query and route data, and Handlebars to generate HTML.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zizaeric/Burger.git"
+  },
+  "author": "Eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zizaeric/Burger/issues"
+  },
+  "homepage": "https://github.com/zizaeric/Burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.17.1"
+  }
+}
