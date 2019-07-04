@@ -1,0 +1,13 @@
+<li>
+
+	{{burger_name}}
+	<br>
+	<a class="waves-effect waves-light btn change-devour white darken-1" data-id="{{id}}" data-newstatus="{{devour}}">
+		{{#if devour}}Devour! {{else}}Serve it up! {{/if}}
+	</a>
+
+	<a class="waves-effect waves-light btn delete-burger white darken-1" data-id="{{this.id}}">
+		Delete
+	</a>
+
+</li>

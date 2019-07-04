@@ -1,0 +1,52 @@
+html {
+    background-color: rgba(172, 255, 47, 0.623);
+  }
+  
+  body {
+    color: #424242;
+    font-family: '', cursive;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  label {
+    color: #424242;
+  }
+  
+  form, input#bu {
+    font-size: 20px;
+  }
+  
+  button {
+    color: hsl(64, 99%, 50%);
+    background-color: #ff2b06;
+    border: 0;
+  }
+  
+  div#lists {
+    margin-bottom: 40px;
+  }
+  
+  #burger_row {
+    margin-bottom: 50px;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  .btn {
+    color: #424242;
+  }
+  
+  .page-footer {
+    padding: 0px;
+    font-family: 'BenchNine', sans-serif;
+  }
